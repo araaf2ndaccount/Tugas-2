@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572177679 source:/home/araaf/tugas game programming/tugas 2/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
